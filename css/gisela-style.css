@@ -1,0 +1,57 @@
+/*** Gisela's Styles ***/
+.giselavargas-advice {
+  background-color: #eaeae6;
+  margin: 30px 150px;
+}
+.advice {
+}
+.col-2 {
+  width: 45%;
+  float:left;
+  padding: 10px;
+  margin: 0 30px 0 0;
+}
+.giselavargas-advice a {
+  color: #9f9f9b;
+  font-family: "roboto", sans-serif;
+  font-size: 13px;
+  padding: 8px 15px 8px 8px;
+  text-decoration: none;
+  background-color: #e0e0dc;
+}
+.giselavargas-advice section {
+  display:inline-table;
+  margin-bottom:10px;
+}
+.giselavargas-advice h1 {
+  font-family: 'Bitter', serif;
+  font-size: 40px;
+  width: 58%;
+  background-color: #c4dedc;
+  padding: 0 60px 0px 0px;
+  margin-top: 100px;
+  background-color: #c4dedc;
+  color: #59938f;
+}
+
+.giselavargas-advice h4 {
+  font-family: 'Bitter', serif;
+  font-size: 27px;
+  margin-bottom: 20px;
+  color:#59938f;
+}
+
+.giselavargas-advice p {
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+  color: #5C5C5C;
+  line-height: 23px;
+  margin-bottom: 24px;
+}
+
+.giselavargas-advice footer p {
+  font-size: 14px;
+}
+.giselavargas-advice footer {
+  clear:both;
+}
